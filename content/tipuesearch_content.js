@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'W2-建立網站 \n 2b-bj4 倉儲網址 \n https://github.com/mdecd2023/2b-pj1bg4 \n', 'tags': '', 'url': 'About.html'}]};
